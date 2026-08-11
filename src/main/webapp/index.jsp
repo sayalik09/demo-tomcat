@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Sayali World3 !! v1 | Sample App v1.0 </h1>
+<h1>Sayali World !! v3 | Sample App v1.0 </h1>
 <p>You have successfully deployed the Web Application on Tomcat !!</p>
 </body>
 </html>
